@@ -12,6 +12,7 @@ namespace StaticsCards // Ajusta al nombre de tu proyecto
         public enum ThemeMode { Light, Dark }
         private ThemeMode currentTheme = ThemeMode.Light;
 
+        //Para los Colores
         // 2. Colores predefinidos para el Modo Oscuro
         private Color colorFondoDark = Color.FromArgb(45, 45, 48);
         private Color colorTextoPrincipalDark = Color.White;
